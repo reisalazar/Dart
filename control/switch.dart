@@ -6,7 +6,7 @@ main() {
 
   switch (grade) {
     case 10:
-      case9:
+    case 9:
       print("perfect grade");
       break;
     case 8:
